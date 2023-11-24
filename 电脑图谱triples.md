@@ -1,3 +1,5 @@
+# CPU
+
 INTEL 酷睿I5 10400F	型号	酷睿 i5-10400F
 INTEL 酷睿I5 10400F	报价	￥999.0
 INTEL 酷睿I5 10400F	芯片厂方	Intel
@@ -465,6 +467,9 @@ AMD RYZEN 9 7950X(盒)	64位处理器	是
 AMD RYZEN 9 7950X(盒)	Virtualization(虚拟化)	支持Virtualization(虚拟化)技术
 AMD RYZEN 9 7950X(盒)	TDP(热功耗设计)	170W
 AMD RYZEN 9 7950X(盒)	属性关键字	64位处理器
+
+# 主板
+
 微星 B560M PRO-E	型号	B560M PRO-E
 微星 B560M PRO-E	报价	￥649.0
 微星 B560M PRO-E	适用类型	游戏,台式机
@@ -1068,6 +1073,9 @@ AMD RYZEN 9 7950X(盒)	属性关键字	64位处理器
 微星 MPG X670E CARBON WIFI	插槽接口	2×PCIe 5.0×16,1×PCIe 4.0×16
 微星 MPG X670E CARBON WIFI	扩展接口	HDMI
 微星 MPG X670E CARBON WIFI	电源接口	24PIN+8PIN+8PIN
+
+# 显卡
+
 微星 GTX 1650 D6 VENTUS XS OC	型号	GeForce GTX 1650 D6 VENTUS XS OC
 微星 GTX 1650 D6 VENTUS XS OC	显卡类型	主流级
 微星 GTX 1650 D6 VENTUS XS OC	芯片型号	NVIDIA GeForce GTX 1650
@@ -1806,6 +1814,11 @@ AMD RYZEN 9 7950X(盒)	属性关键字	64位处理器
 影驰 RTX 4090 HOF OC Lab	最大分辨率	7680×4320
 影驰 RTX 4090 HOF OC Lab	散热描述	白色幻象散热系统
 影驰 RTX 4090 HOF OC Lab	电源接口	8 Pin+8 Pin+8 Pin
+
+
+
+# 内存条
+
 美商海盗船 DDR4 3200 8GB 复仇者LPX系列	主要参数	点此用更优惠的价格购买这款产品
 美商海盗船 DDR4 3200 8GB 复仇者LPX系列	型号	复仇者LPX DDR4 3200 8GB
 美商海盗船 DDR4 3200 8GB 复仇者LPX系列	适用类型	台式机
@@ -1964,7 +1977,12 @@ AMD RYZEN 9 7950X(盒)	属性关键字	64位处理器
 芝奇 F5-6000J3636F16GX2-TZ5RS 幻锋戟 带灯 银色 16Gx2	工作时序	CL=32-38-38-96
 芝奇 F5-6000J3636F16GX2-TZ5RS 幻锋戟 带灯 银色 16Gx2	内存电压	1.35V
 芝奇 F5-6000J3636F16GX2-TZ5RS 幻锋戟 带灯 银色 16Gx2	包装	散装
-利民 AX120 R SE	基本参数	点此用更优惠的价格购买这款产品
+利民 AX120 R SE	基本参数	点此用更优惠的价格购买这款产品*
+
+# 散热器
+
+## 风冷散热器
+
 利民 AX120 R SE	型号	AX120 R SE
 利民 AX120 R SE	适用配件	CPU
 利民 AX120 R SE	报价	￥89.9
@@ -2019,6 +2037,7 @@ AMD RYZEN 9 7950X(盒)	属性关键字	64位处理器
 利民 PA120 WHITE ARGB	噪音	≤25.6 dB(A)
 利民 PA120 WHITE ARGB	散热器总尺寸	125×135×157mm
 利民 PA120 WHITE ARGB	重量	750 g
+
 猫头鹰（NOCTUA）NH-D15 CPU散热器	基本参数	点此用更优惠的价格购买这款产品
 猫头鹰（NOCTUA）NH-D15 CPU散热器	型号	NH-D15
 猫头鹰（NOCTUA）NH-D15 CPU散热器	适用配件	CPU
@@ -2032,6 +2051,9 @@ AMD RYZEN 9 7950X(盒)	属性关键字	64位处理器
 猫头鹰（NOCTUA）NH-D15 CPU散热器	散热器总尺寸	165×150×161
 猫头鹰（NOCTUA）NH-D15 CPU散热器	重量	1000(无风扇),1320(带风扇)
 猫头鹰（NOCTUA）NH-D15 CPU散热器	其它性能	电源接口:4-pin PWM
+
+## 水冷散热器
+
 利民 Forzen Magic 240 ARGB 水冷散热器	基本参数	点此用更优惠的价格购买这款产品
 利民 Forzen Magic 240 ARGB 水冷散热器	型号	Forzen Magic 240 ARGB
 利民 Forzen Magic 240 ARGB 水冷散热器	适用配件	CPU
@@ -2171,6 +2193,11 @@ AMD RYZEN 9 7950X(盒)	属性关键字	64位处理器
 华硕 ROG RYUO 龙王3代 360 ARGB	散热片材质	铝合金
 华硕 ROG RYUO 龙王3代 360 ARGB	散热器总尺寸	399.5×120×30 mm
 华硕 ROG RYUO 龙王3代 360 ARGB	其它性能	水冷头尺寸：89×89×68.3mm底座形状：方形水泵方案：第8代Asetek水泵转速：800-2600±300RPM功率：12V DC，0.3A
+
+# 硬盘
+
+## 固态硬盘
+
 WD_BLUE SN570 500GB 固态硬盘	型号	WD Blue SN570 500GB M.2 SSD
 WD_BLUE SN570 500GB 固态硬盘	产品类型	SSD固态硬盘
 WD_BLUE SN570 500GB 固态硬盘	报价	￥298.0
@@ -2331,6 +2358,9 @@ WD_BLACK SN850 500GB	保修	5年质保
 三星（SAMSUNG）990 PRO 2TB 	外观尺寸	80×22×2.3mm
 三星（SAMSUNG）990 PRO 2TB 	工作温度	0-70℃
 三星（SAMSUNG）990 PRO 2TB 	存储温度	-40-85℃
+
+## 移动硬盘
+
 西部数据(WD)蓝盘 1TB	类型	办公家用
 西部数据(WD)蓝盘 1TB	型号	蓝盘 1TB 64M SATA3 硬盘(WD10EZEX)
 西部数据(WD)蓝盘 1TB	报价	￥269
@@ -2357,6 +2387,9 @@ WD_BLACK SN850 500GB	保修	5年质保
 西数4T(WD40 EZAZ)蓝盘	缓存容量	256M
 西数4T(WD40 EZAZ)蓝盘	盘体尺寸	3.5寸,26.1×147×101.6mm
 西数4T(WD40 EZAZ)蓝盘	接口标准	SATA 6 Gb/s
+
+# 机箱
+
 九州风神 DQ650-M-V3L 金牌全模组	主要参数	点此用更优惠的价格购买这款产品
 九州风神 DQ650-M-V3L 金牌全模组	型号	DQ650-M
 九州风神 DQ650-M-V3L 金牌全模组	适用类型	台式机
@@ -2727,6 +2760,9 @@ LIANLI 联力 包豪斯O11D黑色	附件	机箱、螺丝包、说明书
 华硕 TUF GAMING GT502 弹药库	机箱尺寸	285×450×446mm
 华硕 TUF GAMING GT502 弹药库	重量	12kg
 华硕 TUF GAMING GT502 弹药库	附件	机箱，说明书，配件包
+
+# 售价
+
 INTEL 酷睿I5 10400F	物料编码	101INTEI510400F
 INTEL 酷睿I5 10400F	京东参考价	999.0
 INTEL 酷睿I5 10400F	平台售价	649.0
