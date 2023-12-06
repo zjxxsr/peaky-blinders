@@ -1,0 +1,58 @@
+networks:
+    net001:
+        ipam:
+            driver: default
+            config:
+                -   subnet: "172.22.1.0/24"
+                    gateway: 172.22.1.1
+
+volumes:
+    redis-data-dc:
+    mongo-data-dc:
+
+services:
+    gradio_history:
+        image: ms:2102a.0.1
+        ports:
+            -   7776:7776
+            -   8888:8888
+        networks:
+            net001:
+                ipv4_address: 172.22.1.2
+        depends_on:
+            - redis
+            - mongo
+        environment:
+            - REDIS_HOST=172.22.1.3
+            - REDIS_PORT=6379
+            - MONGO_HOST=172.22.1.4
+            - MONGO_PORT=27017
+        volumes:
+            - /home/wyf/docker_study/ms_workspace:/mnt/workspace
+        deploy:
+            resources:
+                reservations:
+                    devices:
+                        -   driver: nvidia
+                            device_ids: ['0']
+                            capabilities: [gpu]
+
+    redis:
+        image: redis
+        ports:
+            -   6737:6739
+        networks:
+            net001:
+                ipv4_address: 172.22.1.3
+        volumes:
+            - redis-data-dc:/data
+
+    mongo:
+        image: mongo:4.4.24
+        ports:
+            -   27015:27017
+        networks:
+            net001:
+                ipv4_address: 172.22.1.4
+        volumes:
+            - mongo-data-dc:/data/db

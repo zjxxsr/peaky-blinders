@@ -1,0 +1,26 @@
+at step 2: loss = 0.7291, learning_rate = 1.923076923076923e-05, epoch = 0.08, step = 1
+at step 3: loss = 0.7129, learning_rate = 1.8461538461538465e-05, epoch = 0.15, step = 2
+at step 4: loss = 0.743, learning_rate = 1.7692307692307694e-05, epoch = 0.23, step = 3
+at step 5: loss = 0.666, learning_rate = 1.6923076923076924e-05, epoch = 0.31, step = 4
+at step 6: loss = 0.6725, learning_rate = 1.6153846153846154e-05, epoch = 0.38, step = 5
+at step 7: loss = 0.6635, learning_rate = 1.5384615384615387e-05, epoch = 0.46, step = 6
+at step 8: loss = 0.7034, learning_rate = 1.4615384615384615e-05, epoch = 0.54, step = 7
+at step 9: loss = 0.6757, learning_rate = 1.3846153846153847e-05, epoch = 0.62, step = 8
+at step 10: loss = 0.7121, learning_rate = 1.3076923076923078e-05, epoch = 0.69, step = 9
+at step 11: loss = 0.6798, learning_rate = 1.230769230769231e-05, epoch = 0.77, step = 10
+at step 12: loss = 0.6964, learning_rate = 1.1538461538461538e-05, epoch = 0.85, step = 11
+at step 13: loss = 0.709, learning_rate = 1.076923076923077e-05, epoch = 0.92, step = 12
+at step 14: eval_loss = 0.6962295770645142, eval_accuracy = 0.44, eval_runtime = 0.2062, eval_samples_per_second = 242.481, eval_steps_per_second = 33.947, epoch = 1.0, step = 13
+at step 15: loss = 0.676, learning_rate = 9.230769230769232e-06, epoch = 1.08, step = 14
+at step 16: loss = 0.6913, learning_rate = 8.461538461538462e-06, epoch = 1.15, step = 15
+at step 17: loss = 0.6874, learning_rate = 7.692307692307694e-06, epoch = 1.23, step = 16
+at step 18: loss = 0.6655, learning_rate = 6.923076923076923e-06, epoch = 1.31, step = 17
+at step 19: loss = 0.7005, learning_rate = 6.153846153846155e-06, epoch = 1.38, step = 18
+at step 20: loss = 0.6938, learning_rate = 5.384615384615385e-06, epoch = 1.46, step = 19
+at step 21: loss = 0.7017, learning_rate = 4.615384615384616e-06, epoch = 1.54, step = 20
+at step 22: loss = 0.6987, learning_rate = 3.846153846153847e-06, epoch = 1.62, step = 21
+at step 23: loss = 0.6388, learning_rate = 3.0769230769230774e-06, epoch = 1.69, step = 22
+at step 24: loss = 0.7039, learning_rate = 2.307692307692308e-06, epoch = 1.77, step = 23
+at step 25: loss = 0.7126, learning_rate = 1.5384615384615387e-06, epoch = 1.85, step = 24
+at step 26: loss = 0.672, learning_rate = 7.692307692307694e-07, epoch = 1.92, step = 25
+at step 27: eval_loss = 0.694822, eval_accuracy = 0.44
